@@ -26,7 +26,7 @@
 
 ### Ответ:
 
-!png](image-4.png)
+![png](image-4.png)
 
 ![png](image-5.png)
 
